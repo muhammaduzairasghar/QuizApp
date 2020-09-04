@@ -1,6 +1,8 @@
 package com.example.welcome.quizapp;
 
-public class Questions {
+public class
+
+Questions {
     public String nQuestions[]={
             "which is the first planet in the solar system?",
             "which is the second planet in the solar system?",
